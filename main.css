@@ -1,0 +1,176 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.father{
+    background-color: white;
+    border: 10px solid blue;
+    width: 600px;
+    height: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+   justify-content:space-evenly;
+   align-items: center;
+   
+   
+
+}
+.list1{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child1{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
+.list2{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child2{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
+
+.list3{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child3{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
+.list4{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child4{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
+.list5{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child5{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
+.list6{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none; 
+}
+.child6{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
+.list7{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child7{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
+.list8{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child8{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
+.list9{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child9{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+
+}
+.list10{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child10{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
+.list11{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child11{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
+.list12{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+.child12{ width: 200px; height: 100px;
+    border: 5px solid purple;
+    position: sticky;
+    top: 0px;
+
+}
